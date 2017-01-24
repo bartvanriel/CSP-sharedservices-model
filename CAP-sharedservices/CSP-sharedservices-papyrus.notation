@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_GWsVEOIJEeatWcXz0JfjbA" type="PapyrusUMLComponentDiagram" name="All Components" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_G7u70OIJEeatWcXz0JfjbA" type="Component_PackagedElementShape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_G8LnwOIJEeatWcXz0JfjbA" type="Component_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_G8LnweIJEeatWcXz0JfjbA" type="Component_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_G8LnwuIJEeatWcXz0JfjbA" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_G8Lnw-IJEeatWcXz0JfjbA" type="Component_StructureCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_G8LnxOIJEeatWcXz0JfjbA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G8LnxeIJEeatWcXz0JfjbA"/>
+    </children>
+    <element xmi:type="uml:Component" href="CSP-sharedservices-papyrus.uml#_95mM8OIIEeatWcXz0JfjbA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G7u70eIJEeatWcXz0JfjbA" x="195" y="47"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_HPOfkOIJEeatWcXz0JfjbA" type="Component_PackagedElementShape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_HPXpgOIJEeatWcXz0JfjbA" type="Component_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_HPXpgeIJEeatWcXz0JfjbA" type="Component_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HPXpguIJEeatWcXz0JfjbA" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_HPXpg-IJEeatWcXz0JfjbA" type="Component_StructureCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_HPXphOIJEeatWcXz0JfjbA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HPXpheIJEeatWcXz0JfjbA"/>
+    </children>
+    <element xmi:type="uml:Component" href="CSP-sharedservices-papyrus.uml#_8SpdQOIIEeatWcXz0JfjbA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HPOfkeIJEeatWcXz0JfjbA" x="373" y="48"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_GWsVEeIJEeatWcXz0JfjbA" name="diagram_compatibility_version" stringValue="1.2.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_GWsVEuIJEeatWcXz0JfjbA"/>
+  <styles xmi:type="style:PapyrusViewStyle" xmi:id="_GWsVE-IJEeatWcXz0JfjbA">
+    <owner xmi:type="uml:Model" href="CSP-sharedservices-papyrus.uml#_B8UbgOIJEeatWcXz0JfjbA"/>
+  </styles>
+  <element xmi:type="uml:Model" href="CSP-sharedservices-papyrus.uml#_B8UbgOIJEeatWcXz0JfjbA"/>
+</notation:Diagram>

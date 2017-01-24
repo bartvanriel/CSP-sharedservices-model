@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_2pHo8OIIEeatWcXz0JfjbA" name="RootElement">
+  <packagedElement xmi:type="uml:Model" xmi:id="_B8UbgOIJEeatWcXz0JfjbA" name="Component Model">
+    <packagedElement xmi:type="uml:Package" xmi:id="_6GDp4OIIEeatWcXz0JfjbA" name="Applications Layer">
+      <packagedElement xmi:type="uml:Component" xmi:id="_8SpdQOIIEeatWcXz0JfjbA" name="Data Emitter"/>
+      <packagedElement xmi:type="uml:Component" xmi:id="_95mM8OIIEeatWcXz0JfjbA" name="Data Adapter"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Model" xmi:id="_SXcKIOIJEeatWcXz0JfjbA" name="Deployment Model"/>
+</uml:Model>
